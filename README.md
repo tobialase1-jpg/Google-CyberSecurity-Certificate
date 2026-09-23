@@ -11,7 +11,7 @@ The Google CyberSecurity Certificate project aimed to to equip learners with the
 - Using linux commands to manage file permissions
 - Identifying vulnerablilities for a small business
 - Documenting incidents with an incident handler's journal
-- Importing and parsing a text file in a security-related scenarios
+- Importing and parsing a text file in a security-related scenario
 
 ### Tools Used
 
