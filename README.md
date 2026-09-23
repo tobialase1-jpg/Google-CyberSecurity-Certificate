@@ -11,17 +11,11 @@ The Google CyberSecurity Certificate project aimed to to equip learners with the
 - Using linux commands to manage file permissions
 - Identifying vulnerablilities for a small business
 - Documenting incidents with an incident handler's journal
-- Importing and parsing a text file in a security-related scenarioa
+- Importing and parsing a text file in a security-related scenarios
 
 ### Tools Used
 
-- TBC
-
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
+- Linux
+- SQL
+- Python
+- Google Chronicle / Security Operations
